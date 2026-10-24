@@ -1,7 +1,6 @@
 # DevCluster — Donanım Kaynak Yönetim Simülatörü
 
-Mobil Sistemlerde Uygulama Geliştirme dersi kapsamında Kotlin ve
-Jetpack Compose kullanılarak geliştirilmiş Android uygulamasıdır.
+Kotlin ve Jetpack Compose kullanılarak geliştirilmiş Android uygulaması.
 
 Uygulama, sabit bir donanım veri kümesi üzerinde arama, kategori
 filtreleme, kaynak ayırma ve toplam harcama takibi sunar.
